@@ -3,7 +3,7 @@ cdb for EDOPRO, added japanese name and text.
 
 ## 概要
 
-本リポジトリには以下のものが含まれている
+本リポジトリには以下のものが含まれている。Project Ignis内のファイル `config/configs.json` を編集することで導入可能
 * 英語版ADSである **Project Ignis (EDOPRO)** のカードデータ(cdb)をもとにして、**一部カードのカード名・テキストに、日本語のものを追加**したカードデータ(cdb)
 
 Project Ignisのフォルダ内のファイル `config/configs.json` を編集することで導入可能
