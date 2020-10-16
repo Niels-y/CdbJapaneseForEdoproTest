@@ -17,10 +17,10 @@ cdb for EDOPRO, added japanese name and text.
 
 ## 導入手順
 
-1. Project Ignisのフォルダ内にある `config/configs.json` をメモ帳などで開く
+1. メモ帳などで、Project Ignisのフォルダ内にある `config/configs.json` を開く
     * フォルダはWindowsなら基本的に `C:\ProjectIgnis` にある
 1. 13行目の直後に下記内容を追加し、上書き保存する
-1. その後Project Ignisを起動する
+1. Project Ignisを起動する
     * 起動すると自動的に `repositories/japanese` フォルダが作成され、日本語カードデータがダウンロードされる
 
 config.jsonに追加する内容
