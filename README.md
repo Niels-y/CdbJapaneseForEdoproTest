@@ -6,7 +6,7 @@ cdb for EDOPRO, added japanese name and text.
 本リポジトリには以下のものが含まれている。Project Ignis内のファイル `config/configs.json` を編集することで導入可能
 * 英語版ADSである **Project Ignis (EDOPRO)** のカードデータ(cdb)をもとにして、**一部カードのカード名・テキストに、日本語のものを追加**したカードデータ(cdb)
 
-Project Ignisのフォルダ内のファイル `config/configs.json` を編集することで導入可能
+<img width="200" alt="card_info" src="https://user-images.githubusercontent.com/72937182/96171236-96b9c980-0f5f-11eb-83c9-be3556683497.png">
 
 #### 備考
 
@@ -14,10 +14,6 @@ Project Ignisのフォルダ内のファイル `config/configs.json` を編集�
 * Project Ignis以外のADSでは導入方法が違ったり、そもそも使用不可能だったりする
 * 現時点で未翻訳のカードについての翻訳は **「最新カード入りの日本語cdb」を入手できた場合を除き、行わない** 
     * 理由: 翻訳カードデータの作成には「日本語カードデータ(cdb)」を使っており、手元の日本語cdbに入っていないカードは翻訳不可能なため
-
-#### 導入後の表示
-
-<img width="261" alt="card_info" src="https://user-images.githubusercontent.com/72937182/96171236-96b9c980-0f5f-11eb-83c9-be3556683497.png">
 
 ## 導入手順
 
