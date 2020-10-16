@@ -28,7 +28,7 @@ Project Ignisのフォルダ内のファイル `config/configs.json` を編集�
     * すると自動的に `repositories/japanese` フォルダが作成され、日本語カードデータがダウンロードされる
 
 config.jsonに追加する内容
-  ```
+```
   
 		{
 			"url": "https://github.com/Niels-y/CdbJapaneseForEdopro",
