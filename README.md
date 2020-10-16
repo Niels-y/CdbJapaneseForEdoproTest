@@ -29,7 +29,7 @@ Project Ignisのフォルダ内のファイル `config/configs.json` を編集�
 
 config.jsonに追加する内容
 ```
-  
+
 		{
 			"url": "https://github.com/Niels-y/CdbJapaneseForEdopro",
 			"repo_name": "Japanese CardData",
