@@ -77,7 +77,7 @@ How to avoid loading translation card data temporarily
 * Change `"should_read": true` in the second line from the bottom of the added content to `"should_read": false`.  
   追加した内容の下から2行目の `"should_read": true` を `"should_read": false` に変更する。
 
-How to delete translation card data
+How to delete translation card data  
 翻訳カードデータを削除する方法
 * Restore the `config/configs.json`. And delete the `repositories/Japanese` folder.  
   `config/configs.json` を元に戻す。そして `repositoriesjapanese` フォルダを削除する。
