@@ -1,14 +1,14 @@
 # CdbJapaneseForEdopro
 
-Card data based on the English YGOPro card data, with Japanese card names and text added to some cards.  
-英語のYGOProのカードデータをベースに、一部のカードに **日本語の名前とテキストを追加** したカードデータ。
-* (Most of the cards that existed by about 2020/09 have been translated.)  
-  (2020/09くらいまでに存在していたカードはほとんど翻訳されている。)
+Card data based on the English YGOPro `Project Ignis` card data, with Japanese card names and text added to some cards.  
+英語のYGOPro `Project Ignis`のカードデータをベースに、一部のカードに **日本語の名前とテキストを追加** したカードデータ。
+* Most of the cards that existed by about 2020/09 have been translated.  
+  2020/09くらいまでに存在していたカードはほとんど翻訳されている。
 
 #### note / 備考
 
-* YGOPro other than Project Ignis may be used differently or may not be available.  
-  Project Ignis以外のADSでは使用方法が異なる場合や、使用できない場合がある。
+* YGOPro other than `Project Ignis` may be used differently or may not be available.  
+  `Project Ignis`以外のYGOProでは使用方法が異なる場合や、使用できない場合がある。
  
 #### Untranslated cards / 翻訳されていないカード
 
@@ -26,10 +26,10 @@ Card data based on the English YGOPro card data, with Japanese card names and te
 
 #### Card data used for translation / 翻訳に使用したカードデータ
 
-* Japanese card data: Japanese YGOPro **hollow**, on **Before and after support was discontinued**  
-  日本語のカードデータ: 日本語ADS **hollow** の **サポート停止前後**
-* English card data: English YGOPro **Project Ignis**, on **2020/10/19**  
-  英語のカードデータ: 英語ADS **Project Ignis** の **2020/10/19**
+* Japanese card data: Japanese YGOPro `hollow`, on **Before and after support was discontinued**  
+  日本語のカードデータ: 日本語YGOPro `hollow` の **サポート停止前後**
+* English card data: English YGOPro `Project Ignis`, on **2020/10/19**  
+  英語のカードデータ: 英語YGOPro `Project Ignis` の **2020/10/19**
 
 #### Examples of Translations / 翻訳の例
 
@@ -50,8 +50,8 @@ Must be Fusion Summoned and cannot be Special Summoned by other ways. When this 
    `C:\ProjectIgnis/config/configs.json` をテキストエディタで開く。
 1. Add the following content after line 13, and save.  
    13行目の後に以下の内容を追加して保存する。
-1. Run Project Ignis. Then the `repositories/Japanese` folder is created automatically and the Japanese card data is downloaded.  
-   Project Ignisを実行する。すると自動的に `repositories/japanese` フォルダが作成され日本語のカードデータがダウンロードされる
+1. Run `Project Ignis`. Then the `repositories/Japanese` folder is created automatically and the Japanese card data is downloaded.  
+   `Project Ignis`を実行する。すると自動的に `repositories/japanese` フォルダが作成され日本語のカードデータがダウンロードされる
 
 content / 内容
   ```
@@ -98,5 +98,5 @@ How to delete translation card data
   翻訳カードのデータから英語のYGOProが変更されている場合、おそらく以下のように反映される。
   * atk, category: not reflected. They remain fixed to those of the translation card data.  
     攻撃力、カテゴリ: 反映されない。翻訳カードデータに固定されたままである。
-  * effect: reflected. The latest behavior of Project Ignis.  
-    効果: 反映される。Project Ignisの最新の挙動である。
+  * effect: reflected. The latest behavior of `Project Ignis`.  
+    効果: 反映される。`Project Ignis`の最新の挙動である。
