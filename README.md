@@ -97,6 +97,6 @@ How to delete translation card data
 * If the English YGOPro has been changed from the translation card data, it will probably be reflected in the following way.  
   翻訳カードのデータから英語のYGOProが変更されている場合、おそらく以下のように反映される。
   * atk, category: not reflected. They remain fixed to those of the translation card data.  
-    攻撃力、カテゴリ: 反映されない。翻訳カードデータに固定されたままである。
+    攻撃力、カテゴリ: 反映されない。翻訳カードデータに固定されたまま。
   * effect: reflected. The latest behavior of `Project Ignis`.  
-    効果: 反映される。`Project Ignis`の最新の挙動である。
+    効果: 反映される。`Project Ignis`の最新の挙動。
