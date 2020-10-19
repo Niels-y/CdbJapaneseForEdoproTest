@@ -51,7 +51,7 @@ Must be Fusion Summoned and cannot be Special Summoned by other ways. When this 
 1. Run `Project Ignis`. Then the `repositories/Japanese` folder is created automatically and the Japanese card data is downloaded.  
    `Project Ignis` を実行する。すると自動的に `repositories/japanese` フォルダが作成され日本語のカードデータがダウンロードされる
 
-content / 内容
+Content to be added / 追加する内容
   ```
 		{
 			"url": "https://github.com/Niels-y/CdbJapaneseForEdopro",
